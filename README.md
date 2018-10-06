@@ -14,4 +14,6 @@ This .vimrc will also work in neovim, as most of the plugins still work.
 
 Hope this .vimrc will encourage you to use vim!
 
+Thank you for reading this.
+
 
